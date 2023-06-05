@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kisyam
-- 👀 I’m interested in 
-- 🌱 I’m currently learning java,html,css,js
+- 🌱 I’m currently learning java,html,css,js,dart,flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
