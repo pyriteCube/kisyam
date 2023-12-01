@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkisyam%2Fhit-counter&count_bg=%2334DCAE&title_bg=%23664343&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkisyam%2Fhit-counter&count_bg=%2334DCAE&title_bg=%23664343&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/kisyam)
 
 - 👋 Hi, I’m @kisyam
 - 🌱 I’m currently learning java,html,css,js,dart,flutter
